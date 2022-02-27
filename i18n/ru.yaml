@@ -1,5 +1,5 @@
 readMore:
-  other: Читать далее
+  other: Другие посты
 readingTime:
   other: '{{ .Count }} мин. чтения'
 toc:
